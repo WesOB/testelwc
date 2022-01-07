@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/wesob.testeslwc",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve UH21pfBXjTc8UgtqrrX1 --open"
+  }
+}
